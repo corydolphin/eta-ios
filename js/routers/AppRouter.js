@@ -20,7 +20,9 @@ app.routers.AppRouter = Backbone.Router.extend({
     create: function () {
         console.log("Create route invoked");
         // Since the home view never changes, we instantiate it and render it only once
-        app.slider.slidePage(new app.views.CreateDestinationView().render().$el);
+        var createDestinationView = new app.views.CreateDestinationView().render();
+        app.slider.slidePage(createDestinationView.$el);
+        createDestinationView.init_map();
     },
 
     employeeDetails: function (id) {

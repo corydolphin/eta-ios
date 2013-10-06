@@ -6,7 +6,13 @@ app.views.CreateDestinationView = Backbone.View.extend({
     },
     render: function () {
 		console.log("rendar");
-	    this.$el.html(this.template()); 
+
+        this.$el.html(this.template()); 
         return this;
+    },
+
+    init_map: function(){
+        console.log($("#map_canvas").get());
     }
+
 });
