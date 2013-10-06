@@ -22,7 +22,7 @@ app.views.CreateDestinationView = Backbone.View.extend({
                 zoom: 16,
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             };
-            map_element = document.getElementById("map_canvas");
+            var map_element = document.getElementById("map_canvas");
             map = new google.maps.Map(map_element, myOptions);
         };
 
