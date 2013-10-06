@@ -25,18 +25,38 @@ html, body {
     text-align: center;
 }
 
+#v-create-destination{
+    text-align: center;
+}
+
 /*.page{
     margin-top:20px;
 }
 */
+.btn-eta{
+    background-color:rgb(235,68,83);
+    color:white;
+}
+
+.input-eta{
+    border: 2px solid rgb(235,68,83);
+    margin-top: 5px;
+}
 #create-event{
     width:100%;
-    background-color:rgb(235,68,83);
-    margin-top: 50%;
-    color:white;
+    margin-top: 75%;
 }
 
 #input-event-name{
     background-color:rgb(235,68,83) ;
     margin-top:50px;
 }
+
+#invite-friends{
+    margin-top:50px;
+}
+
+#map_canvas{
+    margin-top: 20px;
+}
+
