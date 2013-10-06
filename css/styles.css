@@ -31,12 +31,12 @@ html, body {
 */
 #create-event{
     width:100%;
-    background-color:red;
+    background-color:rgb(235,68,83);
     margin-top: 50%;
     color:white;
 }
 
 #input-event-name{
-    background-color: red;
+    background-color:rgb(235,68,83) ;
     margin-top:50px;
 }
