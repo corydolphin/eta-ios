@@ -10,7 +10,14 @@ app.views.CreateDestinationView = Backbone.View.extend({
         this.$el.html(this.template()); 
         return this;
     },
+    events: {
+        "click #invite-friends": "navigateToSelectContacts"
+    },
 
+    navigateToSelectContacts: function(){
+        console.log("Navigate to select contacts invoked");
+        app.router.navigate("friends/lol", true);
+    },
     init_map: function(){
         var win = function(position) {
             var lat = position.coords.latitude;
