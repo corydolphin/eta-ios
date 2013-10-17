@@ -1,0 +1,64 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    position:relative;
+}
+
+*{
+     position:relative;
+}
+#placeholder{
+    position: fixed;
+    height:100px;
+    background-color: yellow;
+}
+
+.container{
+    padding-top:20px;
+    width: 100%;
+    height: 100%;
+    position:relative;
+}
+
+#v-home{
+/*    margin-top:350px;*/
+    text-align: center;
+}
+
+#v-create-destination{
+    text-align: center;
+}
+
+/*.page{
+    margin-top:20px;
+}
+*/
+.btn-eta{
+    background-color:rgb(235,68,83);
+    color:white;
+}
+
+.input-eta{
+    border: 2px solid rgb(235,68,83);
+    margin-top: 5px;
+}
+#create-event{
+    width:100%;
+    margin-top: 75%;
+}
+
+#input-event-name{
+    background-color:rgb(235,68,83) ;
+    margin-top:50px;
+}
+
+#invite-friends{
+    margin-top:50px;
+}
+
+#map_canvas{
+    margin-top: 20px;
+    width:300px;
+    height:300px;
+}
+

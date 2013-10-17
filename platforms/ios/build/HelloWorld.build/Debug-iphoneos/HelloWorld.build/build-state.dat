@@ -1,0 +1,712 @@
+THelloWorld
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Info.plist /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/HelloWorld.app/ResourceRules.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HelloWorld/config.xml build/device/HelloWorld.app/config.xml
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72.png HelloWorld/Resources/icons/icon-72.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon.png HelloWorld/Resources/icons/icon.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon@2x.png HelloWorld/Resources/icons/icon@2x.png
+cCopyStringsFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/es.lproj/Localizable.strings HelloWorld/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.xib
+cCopyStringsFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/se.lproj/Localizable.strings HelloWorld/Resources/se.lproj/Localizable.strings
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape@2x~ipad.png HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape~ipad.png HelloWorld/Resources/splash/Default-Landscape~ipad.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait@2x~ipad.png HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait~ipad.png HelloWorld/Resources/splash/Default-Portrait~ipad.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default@2x~iphone.png HelloWorld/Resources/splash/Default@2x~iphone.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default~iphone.png HelloWorld/Resources/splash/Default~iphone.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-568h@2x~iphone.png HelloWorld/Resources/splash/Default-568h@2x~iphone.png
+cCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72@2x.png HelloWorld/Resources/icons/icon-72@2x.png
+cProcessPCH /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-eqlwpqklloqjegeqvzxxtscsdxtp/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld normal armv7
+cGenerateDSYMFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app.dSYM /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld
+cProcessProductPackaging /Users/Cory/Library/MobileDevice/Provisioning\ Profiles/0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC.mobileprovision /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/embedded.mobileprovision
+cTouch /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent
+cCodeSign /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000521BCCE10000000000000110
+t1377553633
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c000000005202905C0000000000000094
+t1375899740
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c000000005202905C0000000000000096
+t1375899740
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005202905C000000000000036B
+t1375899740
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000525025EE000000000000019E
+t1380984302
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000525025F10000000000076920
+t1380984305
+s485664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000525025FF00000000004D6390
+t1380984319
+s5071760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000525025FE0000000000145160
+t1380984318
+s1331552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005250260D0000000000211130
+t1380984333
+s2167088
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.m
+c00000000525080A200000000000013AB
+t1381007522
+s5035
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.m
+c00000000525080A2000000000000126B
+t1381007522
+s4715
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.xib
+c00000000525080A20000000000001759
+t1381007522
+s5977
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Info.plist
+c00000000525F07E00000000000000740
+t1381959648
+s1856
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+c00000000525080A200000000000003C5
+t1381007522
+s965
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings
+c00000000525080A200000000000004BF
+t1381007522
+s1215
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings
+c00000000525080A200000000000004AA
+t1381007522
+s1194
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/es.lproj/Localizable.strings
+c00000000525080A200000000000004B7
+t1381007522
+s1207
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon-72.png
+c00000000525080A20000000000001350
+t1381007522
+s4944
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png
+c00000000525080A20000000000002DBA
+t1381007522
+s11706
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon.png
+c00000000525080A20000000000000F3E
+t1381007522
+s3902
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon@2x.png
+c00000000525080A20000000000001EBD
+t1381007522
+s7869
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/se.lproj/Localizable.strings
+c00000000525080A200000000000004AB
+t1381007522
+s1195
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png
+c00000000525080A200000000000085B1
+t1381007522
+s34225
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000525080A20000000000012DF4
+t1381007522
+s77300
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png
+c00000000525080A20000000000008877
+t1381007522
+s34935
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000525080A20000000000012B02
+t1381007522
+s76546
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png
+c00000000525080A200000000000085E6
+t1381007522
+s34278
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png
+c00000000525080A20000000000007323
+t1381007522
+s29475
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png
+c00000000525080A2000000000000289A
+t1381007522
+s10394
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/config.xml
+c00000000525F07E000000000000008BD
+t1381959648
+s2237
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/main.m
+c000000005250EFF000000000000006C6
+t1381036016
+s1734
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent
+t1381959662
+s408
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.o
+t1381959662
+s78020
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList
+c00000000525F07E800000000000001BF
+t1381959656
+s447
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.o
+t1381959662
+s53268
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o
+t1381959661
+s3120
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+c00000000525F07E8000000000000002D
+t1381959656
+s45
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app
+t1381959662
+s816
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app.dSYM
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-568h@2x~iphone.png
+t1381959660
+s61990
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape@2x~ipad.png
+t1381959658
+s143186
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape~ipad.png
+t1381959659
+s65305
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait@2x~ipad.png
+t1381959659
+s136924
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait~ipad.png
+t1381959659
+s63460
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default@2x~iphone.png
+t1381959660
+s55319
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default~iphone.png
+t1381959660
+s20021
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld
+t1381959662
+s279364
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Info.plist
+t1381959656
+s1354
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/MainViewController.nib
+t1381959661
+s836
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/ResourceRules.plist
+t1381959656
+s150
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/config.xml
+t1381959657
+s2237
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/de.lproj/Localizable.strings
+t1381959658
+s280
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/embedded.mobileprovision
+t1381959662
+s9487
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/en.lproj/Localizable.strings
+t1381959658
+s166
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/es.lproj/Localizable.strings
+t1381959658
+s334
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72.png
+t1381959658
+s8045
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72@2x.png
+t1381959660
+s17926
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon.png
+t1381959658
+s5977
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon@2x.png
+t1381959658
+s13012
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/se.lproj/Localizable.strings
+t1381959658
+s283
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a
+c00000000525F07E800000000000E3BC0
+t1381959656
+s932800
+
+N/Users/Cory/Library/MobileDevice/Provisioning Profiles/0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC.mobileprovision
+c00000000524F9B62000000000000250F
+t1380948834
+s9487
+
+N/var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-eqlwpqklloqjegeqvzxxtscsdxtp/HelloWorld-Prefix.pch.pch
+t1381008149
+s5284728
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4772ed683f0fb841^787bf0683f0fb841^---0#1#1#--18"Check dependencies36"7E7FEC08-68E0-485D-8B6C-F708D0666BFC-
+
+CCodeSign /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app
+s403652462.605302
+e403652463.138026
+r1
+xCodeSign
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"CodeSign build/device/HelloWorld.app36"CodeSign build/device/HelloWorld.app88659b6e3f0fb841^616e236f3f0fb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/0000000000000000^1328"CodeSign build/device/HelloWorld.app    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    Using code signing identity "iPhone Developer: William Dolphin (EE2BHQ7N3G)" and provisioning profile "iOS Team Provisioning Profile: *" (0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC)    codesign --force --sign 654ADEA4050989128BBED103B99631854B41DA0C --resource-rules=/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/ResourceRules.plist --entitlements /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app36"CC1D7E78-9989-4AC6-A3EE-EB18596A3533-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652461.818417
+e403652462.220155
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.m200"CompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.o HelloWorld/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera1bed16d3f0fb841^c85d386e3f0fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.m0000000000000000^4000"CompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.o HelloWorld/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/usr/local/lib/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/UninstalledProducts/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-eqlwpqklloqjegeqvzxxtscsdxtp/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/AppDelegate.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.o36"10BD7329-6880-4346-90EF-7170DE9C25A7-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652462.084335
+e403652462.197018
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.m214"CompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.o HelloWorld/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4302166e3f0fb841^1970326e3f0fb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.m0000000000000000^4042"CompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.o HelloWorld/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/usr/local/lib/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/UninstalledProducts/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-eqlwpqklloqjegeqvzxxtscsdxtp/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.o36"F08BF70B-34F0-4FEA-AC33-131C3B7EBAD8-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652461.816014
+e403652462.083106
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/main.m178"CompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o HelloWorld/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf31cd16d3f0fb841^494b156e3f0fb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/main.m0000000000000000^3942"CompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o HelloWorld/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/usr/local/lib/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/UninstalledProducts/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-eqlwpqklloqjegeqvzxxtscsdxtp/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/main.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o36"1A43A90F-9251-4804-B14F-DFDED12314B9-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCompileXIB /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.xib
+s403652458.063038
+e403652461.813845
+r1
+xCompileXIB
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compiling /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.xib52"CompileXIB HelloWorld/Classes/MainViewController.xibd34b106a3f0fb841^6284d06d3f0fb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.xib0000000000000000^1075"CompileXIB HelloWorld/Classes/MainViewController.xib    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/MainViewController.nib /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Classes/MainViewController.xib36"3A22811A-3533-4F9A-87A6-3720ECEB693D-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-568h@2x~iphone.png HelloWorld/Resources/splash/Default-568h@2x~iphone.png
+s403652460.314850
+e403652460.548873
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-568h@2x~iphone.png
+xHelloWorld/Resources/splash/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile build/device/HelloWorld.app/Default-568h@2x~iphone.png HelloWorld/Resources/splash/Default-568h@2x~iphone.png121"CopyPNGFile build/device/HelloWorld.app/Default-568h@2x~iphone.png HelloWorld/Resources/splash/Default-568h@2x~iphone.pngc8cd506c3f0fb841^179d8c6c3f0fb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png0000000000000000^1012"CopyPNGFile build/device/HelloWorld.app/Default-568h@2x~iphone.png HelloWorld/Resources/splash/Default-568h@2x~iphone.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-568h@2x~iphone.png36"B9D80C20-361E-4A75-9824-BC7103FFE0DD-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape@2x~ipad.png HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+s403652458.127659
+e403652458.792488
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape@2x~ipad.png
+xHelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile build/device/HelloWorld.app/Default-Landscape@2x~ipad.png HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png127"CopyPNGFile build/device/HelloWorld.app/Default-Landscape@2x~ipad.png HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png4dd6206a3f0fb841^66f5ca6a3f0fb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png0000000000000000^1024"CopyPNGFile build/device/HelloWorld.app/Default-Landscape@2x~ipad.png HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape@2x~ipad.png36"3FC76B71-B50C-4055-B66B-A96155D44175-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape~ipad.png HelloWorld/Resources/splash/Default-Landscape~ipad.png
+s403652458.793041
+e403652459.018088
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape~ipad.png
+xHelloWorld/Resources/splash/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile build/device/HelloWorld.app/Default-Landscape~ipad.png HelloWorld/Resources/splash/Default-Landscape~ipad.png121"CopyPNGFile build/device/HelloWorld.app/Default-Landscape~ipad.png HelloWorld/Resources/splash/Default-Landscape~ipad.png552fcb6a3f0fb841^53b2046b3f0fb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png0000000000000000^1012"CopyPNGFile build/device/HelloWorld.app/Default-Landscape~ipad.png HelloWorld/Resources/splash/Default-Landscape~ipad.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Landscape~ipad.png36"E39EB75D-A420-4B32-A331-E4A35F056AD8-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait@2x~ipad.png HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+s403652459.018526
+e403652459.601494
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait@2x~ipad.png
+xHelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"CopyPNGFile build/device/HelloWorld.app/Default-Portrait@2x~ipad.png HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png125"CopyPNGFile build/device/HelloWorld.app/Default-Portrait@2x~ipad.png HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png4fe9046b3f0fb841^ab5e9a6b3f0fb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png0000000000000000^1020"CopyPNGFile build/device/HelloWorld.app/Default-Portrait@2x~ipad.png HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait@2x~ipad.png36"65267C18-3F1A-4EFC-8570-DF820DD95E8E-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait~ipad.png HelloWorld/Resources/splash/Default-Portrait~ipad.png
+s403652459.601907
+e403652459.803967
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait~ipad.png
+xHelloWorld/Resources/splash/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"CopyPNGFile build/device/HelloWorld.app/Default-Portrait~ipad.png HelloWorld/Resources/splash/Default-Portrait~ipad.png119"CopyPNGFile build/device/HelloWorld.app/Default-Portrait~ipad.png HelloWorld/Resources/splash/Default-Portrait~ipad.pngab3f9a6b3f0fb841^d6e4cd6b3f0fb841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png0000000000000000^1008"CopyPNGFile build/device/HelloWorld.app/Default-Portrait~ipad.png HelloWorld/Resources/splash/Default-Portrait~ipad.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default-Portrait~ipad.png36"047EFE6D-D3A3-40AF-AEB2-A9B759FD8CF0-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default@2x~iphone.png HelloWorld/Resources/splash/Default@2x~iphone.png
+s403652459.804765
+e403652460.153610
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default@2x~iphone.png
+xHelloWorld/Resources/splash/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile build/device/HelloWorld.app/Default@2x~iphone.png HelloWorld/Resources/splash/Default@2x~iphone.png111"CopyPNGFile build/device/HelloWorld.app/Default@2x~iphone.png HelloWorld/Resources/splash/Default@2x~iphone.png6a2fce6b3f0fb841^5ef2276c3f0fb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png0000000000000000^992"CopyPNGFile build/device/HelloWorld.app/Default@2x~iphone.png HelloWorld/Resources/splash/Default@2x~iphone.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default@2x~iphone.png36"7777FC15-9B07-4D62-87B9-39A860F2B41A-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default~iphone.png HelloWorld/Resources/splash/Default~iphone.png
+s403652460.154348
+e403652460.314439
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default~iphone.png
+xHelloWorld/Resources/splash/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CopyPNGFile build/device/HelloWorld.app/Default~iphone.png HelloWorld/Resources/splash/Default~iphone.png105"CopyPNGFile build/device/HelloWorld.app/Default~iphone.png HelloWorld/Resources/splash/Default~iphone.png8cdc276c3f0fb841^4f90506c3f0fb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png0000000000000000^980"CopyPNGFile build/device/HelloWorld.app/Default~iphone.png HelloWorld/Resources/splash/Default~iphone.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Default~iphone.png36"1F40CEEE-B18E-4B7A-8C3E-2493A35D29F6-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72.png HelloWorld/Resources/icons/icon-72.png
+s403652457.527713
+e403652458.055296
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72.png
+xHelloWorld/Resources/icons/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile build/device/HelloWorld.app/icon-72.png HelloWorld/Resources/icons/icon-72.png90"CopyPNGFile build/device/HelloWorld.app/icon-72.png HelloWorld/Resources/icons/icon-72.png033e87693f0fb841^c32a0e6a3f0fb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon-72.png0000000000000000^950"CopyPNGFile build/device/HelloWorld.app/icon-72.png HelloWorld/Resources/icons/icon-72.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon-72.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72.png36"7A5F6A04-7955-4BD7-A6CB-5CAE1065C55B-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72@2x.png HelloWorld/Resources/icons/icon-72@2x.png
+s403652460.549389
+e403652460.611472
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72@2x.png
+xHelloWorld/Resources/icons/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile build/device/HelloWorld.app/icon-72@2x.png HelloWorld/Resources/icons/icon-72@2x.png96"CopyPNGFile build/device/HelloWorld.app/icon-72@2x.png HelloWorld/Resources/icons/icon-72@2x.png3ece8c6c3f0fb841^d7a39c6c3f0fb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png0000000000000000^962"CopyPNGFile build/device/HelloWorld.app/icon-72@2x.png HelloWorld/Resources/icons/icon-72@2x.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon-72@2x.png36"F6386308-6E9C-4BC9-A643-A67354CB84FA-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon.png HelloWorld/Resources/icons/icon.png
+s403652457.529743
+e403652458.054028
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon.png
+xHelloWorld/Resources/icons/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CopyPNGFile build/device/HelloWorld.app/icon.png HelloWorld/Resources/icons/icon.png84"CopyPNGFile build/device/HelloWorld.app/icon.png HelloWorld/Resources/icons/icon.png76c287693f0fb841^4fe80d6a3f0fb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon.png0000000000000000^938"CopyPNGFile build/device/HelloWorld.app/icon.png HelloWorld/Resources/icons/icon.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon.png36"61291DD6-86D8-475F-BD62-9FAFF1E7C598-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyPNGFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon@2x.png HelloWorld/Resources/icons/icon@2x.png
+s403652458.054665
+e403652458.118984
+r1
+xCopyPNGFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon@2x.png
+xHelloWorld/Resources/icons/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile build/device/HelloWorld.app/icon@2x.png HelloWorld/Resources/icons/icon@2x.png90"CopyPNGFile build/device/HelloWorld.app/icon@2x.png HelloWorld/Resources/icons/icon@2x.png7b4a0e6a3f0fb841^2ee31e6a3f0fb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon@2x.png0000000000000000^950"CopyPNGFile build/device/HelloWorld.app/icon@2x.png HelloWorld/Resources/icons/icon@2x.png    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/icons/icon@2x.png /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/icon@2x.png36"3E50B906-081A-4CAB-A072-6AD5D1BFD139-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyStringsFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+s403652458.119408
+e403652458.124016
+r1
+xCopyStringsFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/de.lproj/Localizable.strings
+xHelloWorld/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/de.lproj/Localizable.strings122"CopyStringsFile build/device/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings2ac91e6a3f0fb841^d509206a3f0fb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings0000000000000000^913"CopyStringsFile build/device/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/de.lproj -- HelloWorld/Resources/de.lproj/Localizable.strings36"4B50104A-B3D5-42E6-A757-9C18F8C2FDEE-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyStringsFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+s403652458.056092
+e403652458.059172
+r1
+xCopyStringsFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/en.lproj/Localizable.strings
+xHelloWorld/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/en.lproj/Localizable.strings122"CopyStringsFile build/device/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings44850e6a3f0fb841^1d760f6a3f0fb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings0000000000000000^913"CopyStringsFile build/device/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/en.lproj -- HelloWorld/Resources/en.lproj/Localizable.strings36"D79B3DFA-3240-4CBD-A158-91AD20263482-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyStringsFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/es.lproj/Localizable.strings HelloWorld/Resources/es.lproj/Localizable.strings
+s403652458.059488
+e403652458.062745
+r1
+xCopyStringsFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/es.lproj/Localizable.strings
+xHelloWorld/Resources/es.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/es.lproj/Localizable.strings122"CopyStringsFile build/device/HelloWorld.app/es.lproj/Localizable.strings HelloWorld/Resources/es.lproj/Localizable.stringsdd610f6a3f0fb841^1957106a3f0fb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/es.lproj/Localizable.strings0000000000000000^913"CopyStringsFile build/device/HelloWorld.app/es.lproj/Localizable.strings HelloWorld/Resources/es.lproj/Localizable.strings    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/es.lproj -- HelloWorld/Resources/es.lproj/Localizable.strings36"6FAA7EF3-024D-4778-BB0B-66CF75663B50-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCopyStringsFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/se.lproj/Localizable.strings HelloWorld/Resources/se.lproj/Localizable.strings
+s403652458.124335
+e403652458.127372
+r1
+xCopyStringsFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/se.lproj/Localizable.strings
+xHelloWorld/Resources/se.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/se.lproj/Localizable.strings122"CopyStringsFile build/device/HelloWorld.app/se.lproj/Localizable.strings HelloWorld/Resources/se.lproj/Localizable.stringsa8fc1f6a3f0fb841^59df206a3f0fb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/Resources/se.lproj/Localizable.strings0000000000000000^913"CopyStringsFile build/device/HelloWorld.app/se.lproj/Localizable.strings HelloWorld/Resources/se.lproj/Localizable.strings    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/se.lproj -- HelloWorld/Resources/se.lproj/Localizable.strings36"E279C305-9A8E-4555-9222-E2A5732EDC32-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/HelloWorld.app/ResourceRules.plist
+s403652456.944366
+e403652456.946532
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xbuild/device/HelloWorld.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/device/HelloWorld.app/ResourceRules.plist180"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/HelloWorld.app/ResourceRules.plist18e9f1683f0fb841^9f59f2683f0fb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/ResourceRules.plist0034e05ddfffdf42^1053"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/HelloWorld.app/ResourceRules.plist    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app36"B0E4C57B-A5D9-4001-9C4C-AEBC853B3AF5-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CCpResource HelloWorld/config.xml build/device/HelloWorld.app/config.xml
+s403652457.526894
+e403652457.528959
+r1
+xCpResource
+xHelloWorld/config.xml
+xbuild/device/HelloWorld.app/config.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/device/HelloWorld.app/config.xml71"CpResource HelloWorld/config.xml build/device/HelloWorld.app/config.xmlf60a87693f0fb841^427987693f0fb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/config.xml0034e05ddfffdf42^903"CpResource HelloWorld/config.xml build/device/HelloWorld.app/config.xml    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/config.xml /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app36"FA14687F-B563-48C4-AA11-911031F772A6-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CGenerateDSYMFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app.dSYM /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld
+s403652462.483476
+e403652462.586675
+r1
+xGenerateDSYMFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app.dSYM
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Generate /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app.dSYM88"GenerateDSYMFile build/device/HelloWorld.app.dSYM build/device/HelloWorld.app/HelloWorld24f07b6e3f0fb841^5039966e3f0fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app.dSYM0034e05ddfffdf42^933"GenerateDSYMFile build/device/HelloWorld.app.dSYM build/device/HelloWorld.app/HelloWorld    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app.dSYM36"0B7187BB-D024-412C-A9F0-89888FA4613A-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CLd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld normal armv7
+s403652462.221563
+e403652462.482082
+r1
+xLd
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld
+xnormal
+xarmv7
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/AppDelegate.o
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld54"Ld build/device/HelloWorld.app/HelloWorld normal armv704e3386e3f0fb841^e8857b6e3f0fb841^---0#0#1#--1971"Ld build/device/HelloWorld.app/HelloWorld normal armv7    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -filelist /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList -dead_strip -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework AssetsLibrary /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld_dependency_info.dat -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/HelloWorld36"6A2C2F9C-7824-493A-BE9F-DA52404091DE-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+s403652456.948536
+e403652457.525241
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.518s
+ouser	0m0.180s
+osys	0m0.282s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'131"PhaseScriptExecution Copy\ www\ directory build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Script-304B58A110DAC018002A0835.sh397ef4683f0fb841^a0c186693f0fb841^-42"real	0m0.518suser	0m0.180ssys	0m0.282s3(21%IDEActivityLogMessage2@14"real	0m0.518s-403652457#1#14#-0#-----2@14"user	0m0.180s-403652457#15#14#-0#-----2@13"sys	0m0.282s-403652457#29#13#-0#-----0#0#1#--22885"PhaseScriptExecution Copy\ www\ directory build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Cory    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv7    setenv ARCHS_STANDARD "armv7 armv7s"    setenv ARCHS_STANDARD_32_64_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_32_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_64_BIT arm64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "armv7 armv7s arm64"    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv7 armv7s"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build    setenv BUILD_ROOT /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device    setenv CACHE_ROOT /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CCHROOT /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_BOOL_CONVERSION YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device    setenv CONFIGURATION_TEMP_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH HelloWorld.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH HelloWorld.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/HelloWorld.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME HelloWorld.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH HelloWorld.app/Executables    setenv EXECUTABLE_FOLDER_PATH HelloWorld.app    setenv EXECUTABLE_NAME HelloWorld    setenv EXECUTABLE_PATH HelloWorld.app/HelloWorld    setenv FILE_LIST /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH HelloWorld.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME HelloWorld.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER HelloWorld/HelloWorld-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNDECLARED_SELECTOR YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include \"/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/usr/local/lib/include\" \"/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/UninstalledProducts/include\" \"/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE HelloWorld/HelloWorld-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH HelloWorld.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH HelloWorld.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/HelloWorld.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Cory    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/HelloWorld.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH HelloWorld.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld-LinkMap-normal-armv7.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH HelloWorld.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 13A584    setenv MAC_OS_X_VERSION_ACTUAL 1090    setenv MAC_OS_X_VERSION_MAJOR 1090    setenv MAC_OS_X_VERSION_MINOR 0900    setenv MODULE_CACHE_DIR /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal    setenv OBJROOT /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load \"/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a\" -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Applications/microchip/xc16/v1.11/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH HelloWorld.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/PkgInfo    setenv PKGINFO_PATH HelloWorld.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH arm64    setenv PLATFORM_PRODUCT_BUILD_VERSION 11A465    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH HelloWorld.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH HelloWorld.app/PrivateHeaders    setenv PRODUCT_NAME HelloWorld    setenv PRODUCT_SETTINGS_PATH /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT HelloWorld    setenv PROJECT_DERIVED_FILE_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/DerivedSources    setenv PROJECT_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PROJECT_FILE_PATH /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld.xcodeproj    setenv PROJECT_NAME HelloWorld    setenv PROJECT_TEMP_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build    setenv PROJECT_TEMP_ROOT /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH HelloWorld.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH HelloWorld.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk    setenv SDK_NAME iphoneos7.0    setenv SDK_PRODUCT_BUILD_VERSION 11A465    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH HelloWorld.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH HelloWorld.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv SRCROOT /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME HelloWorld    setenv TARGET_BUILD_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device    setenv TARGET_NAME HelloWorld    setenv TARGET_TEMP_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build    setenv TEMP_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build    setenv TEMP_FILES_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build    setenv TEMP_FILE_DIR /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build    setenv TEMP_ROOT /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH HelloWorld.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER Cory    setenv USER_APPS_DIR /Users/Cory/Applications    setenv USER_LIBRARY_DIR /Users/Cory/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv7 armv7s"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH HelloWorld.app/version.plist    setenv VERSION_INFO_BUILDER Cory    setenv VERSION_INFO_FILE HelloWorld_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:HelloWorld  PROJECT:HelloWorld-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME HelloWorld.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A1413    setenv XCODE_VERSION_ACTUAL 0500    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH HelloWorld.app/XPCServices    setenv YACC yacc    setenv arch armv7    setenv variant normal    /bin/sh -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Script-304B58A110DAC018002A0835.sh36"007D6C42-65D2-4985-897C-B07282308633-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CProcessInfoPlistFile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Info.plist /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Info.plist
+s403652456.937991
+e403652456.943336
+r1
+xProcessInfoPlistFile
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Info.plist
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Process /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Info.plist92"ProcessInfoPlistFile build/device/HelloWorld.app/Info.plist HelloWorld/HelloWorld-Info.plist4180f0683f0fb841^6283f1683f0fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Info.plist0000000000000000^1154"ProcessInfoPlistFile build/device/HelloWorld.app/Info.plist HelloWorld/HelloWorld-Info.plist    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-infoPlistUtility /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/ResourceRules.plist -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/Info.plist36"7E314208-59F3-4BAD-AE7D-3CFC0E191014-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CProcessPCH /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-eqlwpqklloqjegeqvzxxtscsdxtp/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent
+s403652462.600474
+e403652462.604674
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection216"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent216"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent16de996e3f0fb841^f2cd9a6e3f0fb841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent0034e05ddfffdf42^1085"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/HelloWorld.xcent36"5B43FACF-18D0-403A-A182-D37D7322176A-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CProcessProductPackaging /Users/Cory/Library/MobileDevice/Provisioning\ Profiles/0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC.mobileprovision /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/embedded.mobileprovision
+s403652462.587334
+e403652462.590023
+r1
+xProcessProductPackaging
+x/Users/Cory/Library/MobileDevice/Provisioning Profiles/0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC.mobileprovision
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection185"ProcessProductPackaging /Users/Cory/Library/MobileDevice/Provisioning\ Profiles/0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC.mobileprovision build/device/HelloWorld.app/embedded.mobileprovision185"ProcessProductPackaging /Users/Cory/Library/MobileDevice/Provisioning\ Profiles/0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC.mobileprovision build/device/HelloWorld.app/embedded.mobileprovision0684966e3f0fb841^b70d976e3f0fb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/embedded.mobileprovision0034e05ddfffdf42^997"ProcessProductPackaging /Users/Cory/Library/MobileDevice/Provisioning\ Profiles/0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC.mobileprovision build/device/HelloWorld.app/embedded.mobileprovision    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-productPackagingUtility /Users/Cory/Library/MobileDevice/Provisioning\ Profiles/0CC0AE61-2476-45CC-B4FB-3D188CC3CBFC.mobileprovision -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app/embedded.mobileprovision36"817F73E9-BF6A-49C9-96AF-FD7D863BE5C6-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+
+CTouch /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app
+s403652462.591954
+e403652462.599555
+r1
+xTouch
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Touch /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app33"Touch build/device/HelloWorld.app7aaa976e3f0fb841^d480996e3f0fb841^---0#0#1#--694"Touch build/device/HelloWorld.app    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /usr/bin/touch -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/HelloWorld.app36"A0F778BB-7825-405C-BEC6-EF9DF43E6CD7-
+bBA6543F7-B740-4DB0-A840-85E56A0FA1EA
+

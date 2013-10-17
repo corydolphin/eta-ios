@@ -1,0 +1,1172 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSDictionary+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/NSData+Base64.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000521BCCE10000000000000110
+t1377553633
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005202905C000000000000036B
+t1375899740
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000525025EE000000000000019E
+t1380984302
+s414
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDV.h
+c00000000525080A20000000000000516
+t1381007522
+s1302
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c00000000525080A20000000000000C83
+t1381007522
+s3203
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c00000000525080A200000000000008BA
+t1381007522
+s2234
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c00000000525080A20000000000000473
+t1381007522
+s1139
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c00000000525080A2000000000000126E
+t1381007522
+s4718
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c00000000525080A20000000000000501
+t1381007522
+s1281
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c00000000525080A2000000000000158B
+t1381007522
+s5515
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c00000000525080A200000000000004CB
+t1381007522
+s1227
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c00000000525080A20000000000000EB2
+t1381007522
+s3762
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c00000000525080A20000000000000401
+t1381007522
+s1025
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c00000000525080A200000000000007E6
+t1381007522
+s2022
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c00000000525080A20000000000000DDE
+t1381007522
+s3550
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c00000000525080A200000000000003DA
+t1381007522
+s986
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c00000000525080A2000000000000098E
+t1381007522
+s2446
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c00000000525080A200000000000006CF
+t1381007522
+s1743
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c00000000525080A20000000000004C7E
+t1381007522
+s19582
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c00000000525080A20000000000000892
+t1381007522
+s2194
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c00000000525080A200000000000016AE
+t1381007522
+s5806
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c00000000525080A20000000000000C13
+t1381007522
+s3091
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c00000000525080A20000000000001B29
+t1381007522
+s6953
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c00000000525080A20000000000000408
+t1381007522
+s1032
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.h
+c00000000525080A200000000000003E6
+t1381007522
+s998
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.m
+c00000000525080A200000000000006B6
+t1381007522
+s1718
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c00000000525080A2000000000000038D
+t1381007522
+s909
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c00000000525080A20000000000000AA2
+t1381007522
+s2722
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c00000000525080A2000000000000041C
+t1381007522
+s1052
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c00000000525080A20000000000002514
+t1381007522
+s9492
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c00000000525080A20000000000000421
+t1381007522
+s1057
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c00000000525080A200000000000012A2
+t1381007522
+s4770
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c00000000525080A20000000000000ACC
+t1381007522
+s2764
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c00000000525080A20000000000009F3C
+t1381007522
+s40764
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c00000000525080A200000000000005A2
+t1381007522
+s1442
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c00000000525080A200000000000037C6
+t1381007522
+s14278
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c00000000525080A200000000000004B4
+t1381007522
+s1204
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c00000000525080A200000000000027D3
+t1381007522
+s10195
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c00000000525080A20000000000000392
+t1381007522
+s914
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c00000000525080A200000000000004D8
+t1381007522
+s1240
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c00000000525080A2000000000000037D
+t1381007522
+s893
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c00000000525080A200000000000022CC
+t1381007522
+s8908
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c00000000525080A200000000000005DA
+t1381007522
+s1498
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c00000000525080A20000000000001059
+t1381007522
+s4185
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c00000000525080A200000000000003A0
+t1381007522
+s928
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c00000000525080A20000000000000584
+t1381007522
+s1412
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c00000000525080A20000000000000476
+t1381007522
+s1142
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c00000000525080A20000000000000620
+t1381007522
+s1568
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c00000000525080A20000000000000346
+t1381007522
+s838
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o
+t1381959656
+s63852
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o
+t1381959656
+s60404
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o
+t1381959656
+s29360
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o
+t1381959654
+s18668
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o
+t1381959656
+s11140
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o
+t1381959655
+s112440
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o
+t1381959655
+s59068
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o
+t1381959654
+s37048
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o
+t1381959656
+s9416
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o
+t1381959656
+s23152
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o
+t1381959655
+s72820
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o
+t1381959656
+s54360
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o
+t1381959655
+s201436
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o
+t1381959656
+s74820
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o
+t1381959655
+s44704
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/Cordova.LinkFileList
+c00000000525F07E60000000000000CDF
+t1381959654
+s3295
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o
+t1381959655
+s7572
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o
+t1381959654
+s10592
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o
+t1381959654
+s17500
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o
+t1381959654
+s7004
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o
+t1381959655
+s9756
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a
+t2
+s0
+
+N/var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch.pch
+t1381007571
+s3145984
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8ee76f663f0fb841^10028a663f0fb841^---0#1#1#--18"Check dependencies36"F7F8D6E3-680B-44FD-AA7B-82A4F1C49351-
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652455.962458
+e403652456.246112
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m211"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1c9af6673f0fb841^4f763f683f0fb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3969"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o36"7D28ED60-CB2F-4785-A4BE-438F4A7B32D5-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652455.957700
+e403652456.245534
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m197"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o Classes/CDVCommandQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0666f5673f0fb841^92e73e683f0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3927"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o Classes/CDVCommandQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o36"1437BC46-AB1B-4D95-8116-9C1899F568B0-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652456.246529
+e403652456.317938
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m197"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o Classes/CDVConfigParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler34653f683f0fb841^1f6851683f0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3927"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o Classes/CDVConfigParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o36"3C033D7D-7233-4B9C-9934-E1411DEFA4DD-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652454.577524
+e403652454.853777
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m207"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilereb5594663f0fb841^c2bdda663f0fb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3957"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o36"DB846A47-A2AF-4CE8-A3E2-0C7CE0B1814F-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652456.247157
+e403652456.297032
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.m181"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o Classes/CDVJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler42983f683f0fb841^bb0b4c683f0fb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3879"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o Classes/CDVJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o36"E6B2ED9E-E6E0-4E25-9125-577E42617F9F-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652455.377501
+e403652455.689303
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m197"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o Classes/CDVLocalStorage.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler80d660673f0fb841^bc77b0673f0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3927"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o Classes/CDVLocalStorage.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o36"6C086932-06A0-4E46-AACD-DFBD6885ACDD-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652454.907369
+e403652455.253117
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.m185"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o Classes/CDVPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera774e8663f0fb841^003941673f0fb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3891"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o Classes/CDVPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o36"901A3BCE-EC05-4D3C-9989-CFF26345AD64-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652454.854673
+e403652454.939360
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m197"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o Classes/CDVPluginResult.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e12db663f0fb841^cf86f0663f0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3927"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o Classes/CDVPluginResult.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o36"83468F4F-16D2-4B52-AAB5-53A046A017A5-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652456.729465
+e403652456.840020
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.m185"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o Classes/CDVShared.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdd78bb683f0fb841^b344d7683f0fb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3891"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o Classes/CDVShared.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o36"FA9064E6-1567-4659-A463-500F268B7350-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652456.657808
+e403652456.789174
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.m183"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o Classes/CDVTimer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler02d8a8683f0fb841^9e08ca683f0fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3885"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o Classes/CDVTimer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o36"9ACA5AC4-39B5-4B29-A2B0-70F3E0F332D0-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652455.102533
+e403652455.377028
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m195"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o Classes/CDVURLProtocol.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera0701a673f0fb841^6ea460673f0fb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3921"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o Classes/CDVURLProtocol.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o36"F734CF3E-8B20-4C76-BC85-5CA3C694E7C4-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652456.298138
+e403652456.655400
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m199"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb98b4c683f0fb841^8acda7683f0fb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3933"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o36"38D6A5C4-C22E-42CE-A2F5-C97348590586-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652455.253633
+e403652455.961895
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.m201"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o Classes/CDVViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4f1f41673f0fb841^16a3f6673f0fb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3939"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o Classes/CDVViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o36"7A2003DE-41E5-479C-A5A4-AEC961CC38F9-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652456.318755
+e403652456.728378
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m203"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera6d451683f0fb841^5d8bba683f0fb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3945"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o36"390A26EE-DD02-4205-9B91-E6FBDE8C202C-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652454.974166
+e403652455.101671
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m191"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o Classes/CDVWhitelist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0890f9663f0fb841^68091a673f0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3909"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o Classes/CDVWhitelist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o36"9578B36E-078E-4BD7-AD0E-6F15FD5286FB-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652455.912916
+e403652455.957152
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m205"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler67eee9673f0fb841^3b71f5673f0fb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3951"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o36"60ADA264-8551-473B-9134-A05A9AAA4C2D-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652454.854670
+e403652454.906941
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.m193"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o Classes/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbdfcda663f0fb841^1c98e8663f0fb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3915"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o Classes/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o36"632A6D3C-1E9C-43AB-844D-531E1E50F577-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652454.578082
+e403652454.853735
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m213"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compileraa9e94663f0fb841^008dda663f0fb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3975"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o36"0E1B15D6-52C1-4E0D-ACBC-6A46D4774848-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652454.940450
+e403652454.973178
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m225"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9eeef0663f0fb841^c636f9663f0fb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^4011"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o36"1EEB2387-483E-4F55-81B5-F3FF4752AAC6-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403652455.689865
+e403652455.911953
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m205"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere5edb0673f0fb841^e275e9673f0fb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3951"CompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -DDEBUG -include /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.d --serialize-diagnostics /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.dia -c /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o36"BD33249A-736E-48EA-BBF6-B894977CB95D-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDV.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDV.h
+s403652454.551034
+e403652454.553433
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDV.h116"CpHeader Classes/CDV.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDV.hb72a8d663f0fb841^52d48d663f0fb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDV.h0034e05ddfffdf42^963"CpHeader Classes/CDV.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDV.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDV.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"8362F2D9-423D-49E6-9D75-42D37306F735-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVAvailability.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+s403652454.553107
+e403652454.554896
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h140"CpHeader Classes/CDVAvailability.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h20b58d663f0fb841^c6168e663f0fb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h0034e05ddfffdf42^999"CpHeader Classes/CDVAvailability.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVAvailability.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"028DF374-FE38-4F82-96CD-CF26C5459423-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+s403652454.550447
+e403652454.552763
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h146"CpHeader Classes/CDVCommandDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.ha2088d663f0fb841^118e8d663f0fb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h0034e05ddfffdf42^1008"CpHeader Classes/CDVCommandDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"80E780D9-AB79-4C06-88FE-F8AFAB8AC77D-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+s403652454.558126
+e403652454.560316
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h154"CpHeader Classes/CDVCommandDelegateImpl.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h2e028f663f0fb841^9acd8f663f0fb841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h0034e05ddfffdf42^1020"CpHeader Classes/CDVCommandDelegateImpl.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"1C992828-1C79-4232-8506-EA6558D63237-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVCommandQueue.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+s403652454.557427
+e403652454.560062
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h140"CpHeader Classes/CDVCommandQueue.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.hb0e88e663f0fb841^82ac8f663f0fb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h0034e05ddfffdf42^999"CpHeader Classes/CDVCommandQueue.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"3DC89E69-2FB2-4B5B-BE7A-16108FC2A48B-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVConfigParser.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+s403652454.564260
+e403652454.569059
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVConfigParser.h140"CpHeader Classes/CDVConfigParser.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVConfigParser.hbd8e90663f0fb841^7f4b98663f0fb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVConfigParser.h0034e05ddfffdf42^999"CpHeader Classes/CDVConfigParser.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVConfigParser.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"F01FC15D-A2BA-4B65-BDC1-363BB554D7A1-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVDebug.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVDebug.h
+s403652454.542428
+e403652454.543886
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVDebug.h126"CpHeader Classes/CDVDebug.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVDebug.hd7f68a663f0fb841^e71c8c663f0fb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVDebug.h0034e05ddfffdf42^978"CpHeader Classes/CDVDebug.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVDebug.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"0C30353C-F241-49AC-BF93-5F9457F1251A-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+s403652454.535384
+e403652454.538613
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h150"CpHeader Classes/CDVInvokedUrlCommand.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.hdc8289663f0fb841^ce528a663f0fb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h0034e05ddfffdf42^1014"CpHeader Classes/CDVInvokedUrlCommand.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"4479A289-0F66-4940-B3EB-CFA7463302EB-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVJSON.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVJSON.h
+s403652454.565963
+e403652454.568690
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVJSON.h124"CpHeader Classes/CDVJSON.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVJSON.hcefe90663f0fb841^3f3b98663f0fb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVJSON.h0034e05ddfffdf42^975"CpHeader Classes/CDVJSON.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVJSON.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"069DEB8B-6105-4670-86D3-A9F695234D91-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVLocalStorage.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+s403652454.553569
+e403652454.555394
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h140"CpHeader Classes/CDVLocalStorage.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h2dd18d663f0fb841^124f8e663f0fb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h0034e05ddfffdf42^999"CpHeader Classes/CDVLocalStorage.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"79B8E137-1F8D-4FC2-BC8A-203E945E34B6-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVPlugin.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+s403652454.541511
+e403652454.543376
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h128"CpHeader Classes/CDVPlugin.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.hcfba8a663f0fb841^08228b663f0fb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h0034e05ddfffdf42^981"CpHeader Classes/CDVPlugin.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPlugin.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"12C81FFF-17EE-4E7F-93FE-5FD5E41FD36B-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVPluginResult.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+s403652454.540174
+e403652454.541969
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h140"CpHeader Classes/CDVPluginResult.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h6b658a663f0fb841^f1d58a663f0fb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h0034e05ddfffdf42^999"CpHeader Classes/CDVPluginResult.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVPluginResult.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"54A3CE51-867C-463E-AD25-C68E930782B6-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+s403652454.561841
+e403652454.564680
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h166"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h51f58f663f0fb841^3c1598663f0fb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h0034e05ddfffdf42^1038"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"3D5DD457-40D3-4978-9BDD-9CA63713250E-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVShared.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVShared.h
+s403652454.560267
+e403652454.564018
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVShared.h128"CpHeader Classes/CDVShared.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVShared.hf8de8f663f0fb841^5a0e98663f0fb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVShared.h0034e05ddfffdf42^981"CpHeader Classes/CDVShared.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVShared.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"FF4A5CC8-E39B-4898-BDFE-E2858813B8EE-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVTimer.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVTimer.h
+s403652454.573008
+e403652454.575315
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVTimer.h126"CpHeader Classes/CDVTimer.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVTimer.h3ecc92663f0fb841^935599663f0fb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVTimer.h0034e05ddfffdf42^978"CpHeader Classes/CDVTimer.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVTimer.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"A6718025-BD35-4572-A067-DAE9E3301A02-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVURLProtocol.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+s403652454.546618
+e403652454.550235
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h138"CpHeader Classes/CDVURLProtocol.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h130b8c663f0fb841^eb1a8d663f0fb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h0034e05ddfffdf42^996"CpHeader Classes/CDVURLProtocol.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"5103F17B-D9CB-4896-A923-C7C58A9D8B05-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+s403652454.571263
+e403652454.574648
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h142"CpHeader Classes/CDVUserAgentUtil.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h645b92663f0fb841^d46298663f0fb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h0034e05ddfffdf42^1002"CpHeader Classes/CDVUserAgentUtil.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"4C908A5A-C1D8-435F-9A4C-288425D29047-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVViewController.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h
+s403652454.548057
+e403652454.550800
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h144"CpHeader Classes/CDVViewController.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h96b28c663f0fb841^a12b8d663f0fb841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h0034e05ddfffdf42^1005"CpHeader Classes/CDVViewController.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVViewController.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"AAD1F26F-2EBC-4269-8C46-CF0CAF21F314-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+s403652454.569067
+e403652454.572777
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h146"CpHeader Classes/CDVWebViewDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h73d891663f0fb841^425d98663f0fb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h0034e05ddfffdf42^1008"CpHeader Classes/CDVWebViewDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"3EEC5168-E43F-49BB-9B90-82C02CEDD38A-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/CDVWhitelist.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+s403652454.544859
+e403652454.546683
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h134"CpHeader Classes/CDVWhitelist.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h8d968b663f0fb841^c4ed8c663f0fb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h0034e05ddfffdf42^990"CpHeader Classes/CDVWhitelist.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/CDVWhitelist.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"DEA2CE7D-C926-4A08-8482-48C8175D4C83-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+s403652454.555733
+e403652454.557721
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h148"CpHeader Classes/NSArray+Comparisons.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.had6d8e663f0fb841^91d08e663f0fb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h0034e05ddfffdf42^1011"CpHeader Classes/NSArray+Comparisons.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"DDFBB12A-32FD-4BFB-B060-ADF8E1F0EDC9-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/NSData+Base64.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+s403652454.539437
+e403652454.541290
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSData+Base64.h136"CpHeader Classes/NSData+Base64.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSData+Base64.h0b418a663f0fb841^8bc68a663f0fb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSData+Base64.h0034e05ddfffdf42^993"CpHeader Classes/NSData+Base64.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSData+Base64.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"AE596D7B-1773-4897-AC34-DDD272A1C6BB-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+s403652454.535874
+e403652454.538243
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h156"CpHeader Classes/NSDictionary+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h094e89663f0fb841^22348a663f0fb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h004c411379f0df42^1023"CpHeader Classes/NSDictionary+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"5768E134-CBBB-44CD-A134-824A860E7920-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+s403652454.544286
+e403652454.546396
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h168"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.hb0738b663f0fb841^5ccb8c663f0fb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h0034e05ddfffdf42^1041"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"F53FE360-8B72-438C-AD0B-C53FC1A283A3-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+s403652454.555293
+e403652454.557170
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h148"CpHeader Classes/UIDevice+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h4c518e663f0fb841^cdab8e663f0fb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h0034e05ddfffdf42^1011"CpHeader Classes/UIDevice+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/include/Cordova36"C5772A9A-FD01-4342-8977-6E310A3D3347-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CLibtool /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a normal armv7
+s403652456.846203
+e403652456.890989
+r1
+xLibtool
+x/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Libtool /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a normal armv7105"Libtool /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a normal armv71afdd8683f0fb841^8b16e4683f0fb841^---0#0#1#--1287"Libtool /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a normal armv7    cd /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Cory/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Cory/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Cory/.rvm/bin:/Applications/microchip/xc16/v1.11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device -filelist /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/Cordova.LinkFileList -o /Users/Cory/Development/hackmit/eta-phonegap/platforms/ios/build/device/libCordova.a36"718A1602-C7D3-4656-94E1-BB0A025BCE89-
+bA14FF36E-3F67-4495-B736-B9AA03C8FF18
+
+CProcessPCH /var/folders/sr/38_m1qj900zdmjksw5r6xy5r0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adqwbfklrnicqvepkoeyradthwfd/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
